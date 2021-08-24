@@ -1,3 +1,3 @@
-<div align="right" width="100%" style="text-align: center;">
+<div align="right" width="100%" style="font-size:128px;">
 <p>ⶸ</p>
 </div>
